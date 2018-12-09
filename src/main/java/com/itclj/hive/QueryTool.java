@@ -28,8 +28,8 @@ public class QueryTool {
     TTransport transport = new TSocket(host, port);
     //transport.setTimeout(100000);
     Map<String, String> saslProperties = new HashMap<String, String>();
-    saslProperties.put("javax.security.sasl.qop", "auth");
-    saslProperties.put("javax.security.sasl.server.authentication","true");
+    saslProperties.put("javax.security.sasl.qop", "auth");//kerberos 认证关键参数
+    saslProperties.put("javax.security.sasl.server.authentication","true");//Kerberos 认证关键参数
 
     logger.info("Security is enabled: {}", UserGroupInformation.isSecurityEnabled());
 
