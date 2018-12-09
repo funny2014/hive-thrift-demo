@@ -15,8 +15,8 @@ public class KerberosLogin {
 
   public void login() {
     String hiveUserName = "finance";
-    String hiveKeytab = "D:\\home\\finance\\Data\\dsp.msxf.lotest\\kerberos\\finance.keytab";
-    String krbconf = "D:\\home\\finance\\Data\\dsp.msxf.lotest\\kerberos\\krb5.conf";
+    String hiveKeytab = "D:\\home\\Data\\dsp.itclj.lotest\\kerberos\\finance.keytab";
+    String krbconf = "D:\\home\\Data\\dsp.itclj.lotest\\kerberos\\krb5.conf";
 
     System.setProperty("java.security.krb5.conf", krbconf);
     Configuration conf = new Configuration();
