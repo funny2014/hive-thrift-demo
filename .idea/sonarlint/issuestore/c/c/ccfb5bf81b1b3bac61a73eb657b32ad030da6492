@@ -1,0 +1,7 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(ŠÓşÿÿÿÿ8Øáƒİò,
+esquid:UselessImportCheck"5Remove this unused import 'javax.security.sasl.Sasl'.(òĞ§âùÿÿÿÿ8—½Ö¢ó,
+‡squid:S14880"dImmediately return this expression instead of assigning it to the temporary variable "ugiTransport".(‚®§†ûÿÿÿÿ8ì½¿‡ó,
+csquid:S2095"EUse try-with-resources or close this "TSocket" in a "finally" clause.(Œşƒ„8“Ç¹‡ó,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯Ÿ©üÿÿÿÿ8À­‡ó,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûé¶Ñúÿÿÿÿ8“Ç¹‡ó,

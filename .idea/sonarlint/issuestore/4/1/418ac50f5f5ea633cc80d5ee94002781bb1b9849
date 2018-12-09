@@ -1,0 +1,30 @@
+
+Lsquid:S1481π"(Remove this unused "row" local variable.(µ€®€ωÿÿÿÿ8¬«ές,
+|squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Δ›­­ϋÿÿÿÿ8¬«ές,
+\
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(Κτ²Ίϊÿÿÿÿ8¬«ές,
+jsquid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(‹Γώÿÿÿÿ8¬«ές,
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(‹Γώÿÿÿÿ8¬«ές,
+\
+squid:S106ώ"9Replace this use of System.out or System.err by a logger.(ΏΤΟύÿÿÿÿ8¬«ές,
+isquid:CommentedOutCodeLineΰ"<This block of commented-out lines of code should be removed.(€Ι8¬«ές,
+Jsquid:S1168Λ"+Return an empty collection instead of null.(¥Ήο8‰­Μ¦σ,
+Psquid:S10683"-Remove this unused "resultMap" private field.(Δ›­­ϋÿÿÿÿ8¬«ές,
+}squid:S2293ν"YReplace the type specification in this constructor call with the diamond operator ("<>").(²μλΧωÿÿÿÿ8¬«ές,
+ksquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(‘κΚψÿÿÿÿ8¬«ές,
+qsquid:S00117Ξ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Λ¨ª8¬«ές,
+Psquid:S1068/"-Remove this unused "passsword" private field.(§Ξπ”ωÿÿÿÿ8©ξ·ές,
+\
+squid:S106ύ"9Replace this use of System.out or System.err by a logger.(Κτ²Ίϊÿÿÿÿ8¬«ές,
+Jsquid:S1068.",Remove this unused "username" private field.(¦ΛΖ€8©ξ·ές,
+jsquid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(ΕΛΘύÿÿÿÿ8¬«ές,
+isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ΆΫ€ζ8©ξ·ές,
+}squid:S1149w"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹†Έ8¬«ές,
+osquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(¨·Òώÿÿÿÿ8¬«ές,
+ksquid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(ηΌλήόÿÿÿÿ8¬«ές,
+ksquid:S00112Δ"FDefine and throw a dedicated exception instead of using a generic one.(™‘ώ²ÿÿÿÿÿ8¬«ές,
+xsquid:S2293Έ"YReplace the type specification in this constructor call with the diamond operator ("<>").(®§έ8¬«ές,
+xsquid:S2293Ξ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Λ¨ª8¬«ές,
+nsquid:UselessImportCheck">Remove this unused import 'javax.security.sasl.SaslException'.(―ύÿÿÿÿ8†ι±ές,
+jsquid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(ΘΐΣΪϋÿÿÿÿ8¬«ές,
+fsquid:S00112‹"FDefine and throw a dedicated exception instead of using a generic one.(ΦΎ—8™Χ»™υ,
